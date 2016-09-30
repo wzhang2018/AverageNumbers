@@ -1,8 +1,9 @@
 Overview
 ========
 
-This program averages an array of integers, and prints the average to the scrreen.
-\n
+This program averages an array of integers, and prints the average to the screen.
+
+
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Usage
